@@ -88,3 +88,4 @@ atlanta_teams.remove("braves");
 # 7) [x:y]  or slice() in another language make a copy of the some part of the list you can use this syntax
 # 8) remove() -- removes all element that equals the argument
 # 9) insert -- taking 2 arguments, first where the index and second what you want it to be. 
+# 10) range has a 3rd argument, step is a third so you can run the loop by 2s ( instead of 1's )
